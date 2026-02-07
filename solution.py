@@ -29,4 +29,5 @@ class Solution:
             # Agle pair par jaane ke liye 'current' ko 2 step aage badhayein
             current = first
             
-        return dummy.next
+        return dummy.next 
+    # new test
