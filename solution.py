@@ -30,4 +30,4 @@ class Solution:
             current = first
             
         return dummy.next 
-    # new test
+    # new test open
