@@ -43,3 +43,5 @@ class Solution:
                     left = right
                     
         return result
+    
+    # write code
