@@ -14,3 +14,5 @@ class Solution:
         
         # If not found, 'left' will be the index where it should be inserted
         return left
+    
+    # first commit
