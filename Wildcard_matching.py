@@ -32,3 +32,5 @@ class Solution:
                 return False
         
         return all(x == '*' for x in p[p_ptr:])
+
+        #first commit
