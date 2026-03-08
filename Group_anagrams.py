@@ -12,3 +12,6 @@ class Solution:
             anagram_map[sorted_s].append(s)
             
         return list(anagram_map.values())
+
+
+        # first commit
