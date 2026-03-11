@@ -16,7 +16,6 @@ class Solution:
                 if c in cols or (r + c) in pos_diag or (r - c) in neg_diag:
                     continue
                 
-                # Place queen (add to constraints)
                 cols.add(c)
                 pos_diag.add(r + c)
                 neg_diag.add(r - c)
