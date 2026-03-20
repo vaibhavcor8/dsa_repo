@@ -21,3 +21,6 @@ class Solution:
             res.append(numbers.pop(idx))
             
         return "".join(res)
+
+
+        # first commit
