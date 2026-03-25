@@ -19,3 +19,5 @@ class Solution:
                     dp[c] = grid[r][c] + min(dp[c], dp[c-1])
                     
         return dp[-1]
+
+        # first commit
