@@ -17,3 +17,5 @@ class Solution:
                 stack.append(part)
         
         return "/" + "/".join(stack)
+    
+    # first commit
